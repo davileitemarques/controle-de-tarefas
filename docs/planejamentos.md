@@ -4,3 +4,8 @@ Prazo de execução: Indeterminado
 Tarefas diárias: Commitar, editar o texto relatando tarefas diarias, registrar no github
 
 ALTERÇÃO NUMERO DOIS
+
+ALTERAÇÃO DE COMMIT
+
+RESOLUCAO DE BUG
+
